@@ -1,0 +1,1 @@
+# Amazon_Bedrock_TextGenerator
